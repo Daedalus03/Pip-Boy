@@ -263,7 +263,7 @@ namespace Pip_Boy_V2._0
             }
         }
 
-        private void InventoryInput_KeyPress(object sender, KeyPressEventArgs e)
+        private void InventoryInput_KeyPress(object sender, KeyPressEventArgs e) //Might not work on Raspberry Pi
         {
                 if (e.KeyChar == (char)Keys.Enter)
                 {
