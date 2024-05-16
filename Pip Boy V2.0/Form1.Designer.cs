@@ -248,7 +248,7 @@ namespace Pip_Boy_V2._0
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(436, 197);
             this.richTextBox1.TabIndex = 0;
-            this.richTextBox1.Text = "\nOWNER:\n\nJan Kübast\nIm Scheibling 24\n63928 Eichenbühl\nGermany\n";
+            this.richTextBox1.Text = "\nOWNER:\n\n...\n...\n...\n...\n";
             // 
             // Manual
             // 
